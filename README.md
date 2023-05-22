@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 🤝 I’m looking for help with Open Source Contribution<br>
 🌱 I’m currently learning Frontend development<br>
 ✍️ Trying to document my tech journey and start blogging<br>
-👩‍💻 Lifelong student who loves engaging with the tech communities<br>
+👩‍💻 Lifelong student who loves engaging with the tech communities and connecting with new people<br>
 📫 How to reach me: akshatanale111@gmail.com <br>
-⚡ Fun fact: I love to network and connect with people
+⚡ Fun fact: I love singing
 
 
 ## 🌐 Connect with me:
